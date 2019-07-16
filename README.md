@@ -5,9 +5,9 @@ Uses HTML5, Javascript
 
 # Features
 
-* Iterators, Generators, Symbols, Destructoring, Maps
+* Examples of Iterators, Generators, Symbols, Destructoring, Maps
 
 # Run
 
-* `https://github.com/Ero6067/`
+* `git clone https://github.com/Ero6067/es6-features-examples.git`
 * open index.html
