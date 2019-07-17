@@ -47,7 +47,7 @@ const person = {
 //       city = person.city;
 
 // New ES6 destructuring
-const { name, age, city, alias, sayHello } = person;
+// const { name, age, city, alias, sayHello } = person;
 
-console.log(name, age, city, alias);
-sayHello();
+// console.log(name, age, city, alias);
+// sayHello();
