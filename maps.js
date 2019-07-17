@@ -48,8 +48,8 @@ const keyValArr = Array.from(map1);
 
 // Create an array of the values
 const valArr = Array.from(map1.values());
-console.log(valArr);
+//onsole.log(valArr);
 
 // Create an array of the keys
 const keyArr = Array.from(map1.values());
-console.log(keyArr);
+//console.log(keyArr);

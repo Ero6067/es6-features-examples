@@ -5,7 +5,7 @@ Uses HTML5, Javascript
 
 # Features
 
-* Examples of Iterators, Generators, Symbols, Destructoring, Maps
+* Examples of Iterators, Generators, Symbols, Destructoring, Maps, Sets
 
 # Run
 
